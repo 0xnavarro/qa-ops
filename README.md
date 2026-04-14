@@ -1,5 +1,8 @@
 # create-qa-ops
 
+[![npm version](https://img.shields.io/npm/v/create-qa-ops.svg)](https://www.npmjs.com/package/create-qa-ops)
+[![license](https://img.shields.io/npm/l/create-qa-ops.svg)](https://github.com/0xnavarro/qa-ops/blob/main/LICENSE)
+
 > Quality governance for agent-assisted software development.
 
 Scaffold a complete quality system — findings, audits, QA sessions, merge gates — designed for AI agents to read and execute.
