@@ -1,0 +1,36 @@
+{
+  "name": "create-qa-ops",
+  "version": "1.1.0",
+  "description": "Scaffold a quality governance system for agent-assisted software development. Findings, audits, QA sessions, merge gates — ready for AI agents to read and execute.",
+  "keywords": [
+    "quality",
+    "qa",
+    "audit",
+    "findings",
+    "agent",
+    "ai",
+    "kiro",
+    "governance",
+    "engineering-ops",
+    "merge-gate",
+    "code-review"
+  ],
+  "author": "0xnavarro",
+  "license": "MIT",
+  "bin": {
+    "create-qa-ops": "./bin/create-qa-ops.mjs"
+  },
+  "files": [
+    "bin/",
+    "templates/"
+  ],
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xnavarro/qa-ops"
+  },
+  "homepage": "https://www.0xnavarro.com/es/writing/founder-led-engineering-ops/"
+}
